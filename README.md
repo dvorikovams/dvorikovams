@@ -24,5 +24,5 @@ Python · SQL
 
 ## Contact
 
-Telegram: [@@lulla666y](https://t.me/lulla666y)  
+Telegram: [@lulla666y](https://t.me/lulla666y)  
 Email: dvorikovam@bk.ru
